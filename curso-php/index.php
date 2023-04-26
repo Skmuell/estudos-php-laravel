@@ -20,7 +20,7 @@
                 <div class="modulo verde">
                     <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="#">exercício A <A></A></a></li>
+                        <li><a href="exercicio.php">exercício A <A></A></a></li>
                         <li><a href="#">exercício B <A></A></a></li>
                         <li><a href="#">exercício C <A></A></a></li>
                     </ul>

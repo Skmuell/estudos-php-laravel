@@ -95,7 +95,7 @@
         </div>
     </main>
     <footer class="rodape">
-        C0D3R & ALUNOS © 2019
+        C0D3R & ALUNOS © <?= date('Y')?>
     </footer>
 
 </body>

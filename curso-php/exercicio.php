@@ -20,7 +20,7 @@
         </div>
     </main>
     <footer class="rodape">
-        C0D3R & ALUNOS © <?= date('Y')?>
+         © <?= date('Y')?>
     </footer>
 
 </body>

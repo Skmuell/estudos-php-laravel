@@ -15,7 +15,7 @@ body {
         "rodape";
 }
 
-.cabecalho{
+.cabecalho {
     grid-area: cabecalho;
     background-color:rgb(66, 66, 252);
     color:white;
